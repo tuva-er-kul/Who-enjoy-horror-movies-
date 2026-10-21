@@ -1,4 +1,5 @@
 # Who enjoy horror movies?
+Examining anwers of people who enjoy horror movies in a 150-questions survey. 
 
 ##Purpose
 This project was carried out in connection with the examination in the course PSY-3035 Programming and Data Visualization for Researchers at UiT The Arctic University of Norway in the autumn of 2026.
